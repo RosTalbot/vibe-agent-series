@@ -21,14 +21,14 @@ Make AI tools more accessible and practical by designing micro-agents that:
 
 - Status: ✅ Complete (MVP v1a)
 - Description: Scrapes and analyzes YouTube titles for hook strength, formatting patterns, and emotional triggers. Outputs a CSV report via email.
-- Repo: TrendScout
+- Repo: - [Vibe Agent 01: TrendScout](https://github.com/RosTalbot/trendscout)
 - MVP/POC For: ThumbScout (GPT-Vision-based thumbnail analyzer)
 
 ### Vibe Agent 02: Brand Voice Snapshot
 
 - Status: 🛠 In Progress
 - Description: Drop in a writing sample and receive a quick voice breakdown (tone, format, vibe tags, etc). Exports brand-aligned prompt settings for GPT use.
-- Repo: Coming soon
+- Repo: Coming soon <!-- [Vibe Agent 02: Brand Voice Snapshot](https://github.com/RosTalbot/brand-voice-snapshot) -->
 - MVP/POC For: Brand Voice Analyzer (full brand tuning and LLM trainer)
 
 ⸻
