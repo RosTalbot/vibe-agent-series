@@ -15,6 +15,7 @@ Make AI tools more accessible and practical by designing micro-agents that:
 
 ⸻
 
+
 ## 🔢 Agent Index
 
 ### Vibe Agent 01: TrendScout
@@ -28,8 +29,22 @@ Make AI tools more accessible and practical by designing micro-agents that:
 
 - Status: 🛠 In Progress
 - Description: Drop in a writing sample and receive a quick voice breakdown (tone, format, vibe tags, etc). Exports brand-aligned prompt settings for GPT use.
-- Repo: Coming soon [Vibe Agent 02: Brand Voice Snapshot](https://github.com/RosTalbot/brand-voice-snapshot)
+- Repo: [Vibe Agent 02: Brand Voice Snapshot](https://github.com/RosTalbot/brand-voice-snapshot)
 - MVP/POC For: Brand Voice Analyzer (full brand tuning and LLM trainer)
+
+### Vibe Agent 03: BriefBot
+
+- Status: ✅ Complete
+- Description: Converts messy brain dumps into clean, structured creative briefs. Designed for fast intake and agency handoff. Includes persona form and Markdown export.
+- Repo: [Vibe Agent 03: BriefBot](https://github.com/RosTalbot/briefbot)
+- MVP/POC For: Smart Creative Intake System for agencies
+
+### Vibe Agent 04: CreatorBrew
+
+- Status: 🛠 In Progress
+- Description: Daily YouTube platform update tracker that scans official sources and delivers creator economy news in Slack. Built with coffee-coded vibes.
+- Repo: [Vibe Agent 04: CreatorBrew](https://github.com/RosTalbot/creatorbrew)
+- MVP/POC For: Automated Research Agent (Slack-integrated, social listening tool)
 
 ⸻
 
